@@ -1,0 +1,2 @@
+font-family: "Proxima Nova", Arial, -apple-system-body, sans-serif;
+font-family: "Proxima Nova", Arial, -apple-system-body, sans-serif;
